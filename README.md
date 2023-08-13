@@ -246,6 +246,7 @@ You are welcome to contribute by submitting a Pull Request to the repository.
 ## Author
 
 [Gabriel Tanner](https://gabrieltanner.org/)
+
 [Dip Chowdhury](https://next-portfolio-modern.vercel.app/)
 
 ## Support me
