@@ -1,3 +1,6 @@
+
+**`Updated package json, now you can run this without having hickups 13-08-2023`**
+
 # Discord Music bot
 
 A simple discord bot that helps you manage your server by providing useful commands like playing music or deleting text messages.
@@ -243,6 +246,7 @@ You are welcome to contribute by submitting a Pull Request to the repository.
 ## Author
 
 [Gabriel Tanner](https://gabrieltanner.org/)
+[Dip Chowdhury](https://next-portfolio-modern.vercel.app/)
 
 ## Support me
 
